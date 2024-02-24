@@ -4,9 +4,8 @@ author: Nilabh Nishchhal
 date: 2024-02-24
 ---
 
-# Beginners Python
 
-## Basic Python Syntax
+## Python Syntax
 
 Welcome to the world of Python programming! In this chapter, we'll embark on a journey to explore the basics of Python syntax. Python, known for its simplicity and readability, is a great language to start your programming adventure. Let's dive in and learn through a story - the tale of Alice in DataLand.
 
