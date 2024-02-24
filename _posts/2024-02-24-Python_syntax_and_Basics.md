@@ -79,7 +79,8 @@ Now when we have learnt all about the variables in Python, let us go back to cal
 
 To write a simple script to calculate the area of a triangle, you can use the formula:
 
-$ \text{Area} = \frac{1}{2} \times \text{base} \times \text{height} $
+$\text{Area} = \frac{1}{2} \times \text{base} \times \text{height}$
+
 
 Here is a Python script that prompts the user to enter the base and height of the triangle and then calculates and prints the area:
 
