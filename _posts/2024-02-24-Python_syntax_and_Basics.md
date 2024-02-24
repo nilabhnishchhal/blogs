@@ -219,7 +219,7 @@ Here, if the `magic_number` is greater than 5, Alice takes one path; otherwise, 
 
 ### For Loops: Repeating Adventures
 
-![Flowchart of for Loop](blogs/assets/flowcharts-for_loop.jpg)
+![Flowchart of for Loop](/blogs/docs/assets/flowcharts-for_loop.jpg)
 
 Sometimes, Alice likes to visit every house in a village. In Python, we use for loops to repeat actions.
 
@@ -233,7 +233,7 @@ This loop helps Alice visit houses numbered from 1 to 5, one after the other.
 
 ### While Loops: Continuing Until
 
-![Flowchart of while Loop](blogs/docs/assets/flowcharts-while_loop.jpg)
+![Flowchart of while Loop](/blogs/docs/assets/flowcharts-while_loop.jpg)
 
 In some parts of DataLand, Alice walks through a forest until she finds a river. In Python, this is like a while loop, where we continue doing something until a condition is met.
 
