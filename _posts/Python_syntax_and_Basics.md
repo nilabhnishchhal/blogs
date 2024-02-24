@@ -1,3 +1,8 @@
+---
+title: "Python Course for Beginners"
+date: 2024-02-24
+---
+
 # Beginners Python
 
 ## Basic Python Syntax
