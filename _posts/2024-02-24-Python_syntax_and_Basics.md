@@ -201,7 +201,7 @@ As Alice continues her journey in the mystical DataLand, she learns to control t
 
 ### If-Else Statements: Choosing Paths
 
-![Flowchart of If-Else Statement](/blogs/docs/assets/flowcharts-if_else_flowchart.jpg)
+![Flowchart of If-Else Statement](/blogs/assets/flowcharts-if_else_flowchart.jpg)
 
 In DataLand, Alice often encounters crossroads where she must make choices. In Python, we use if-else statements to make decisions.
 
